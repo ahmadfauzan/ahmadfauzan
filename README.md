@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadfauzan
-- 👀 I’m interested in Mobile Developer n IoT
+- 👀 I’m interested in Mobile Development n IoT
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fauzana566@gmail.com
